@@ -1,1 +1,1 @@
-# Short analysis of store shipping methods.
+# Some final works with Power BI and Python
